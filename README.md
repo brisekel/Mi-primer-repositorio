@@ -31,4 +31,34 @@ Los sistemas de gestión del aprendizaje (LMS, por sus siglas en inglés) se han
 ### Canvas
 - **Características destacadas:** interfaz moderna, integración con herramientas externas.
 - **Ventajas:** buena experiencia de usuario, escalabilidad.
-- **Desvent**
+- **Desventajas:** menor presencia en Latinoamérica, limitada personalización sin pago.
+
+---
+
+## 📈 Cuadro comparativo
+
+| Plataforma | Interfaz | Herramientas de evaluación | Personalización | Soporte |
+|------------|----------|----------------------------|------------------|---------|
+| Moodle     | Media    | Alta                       | Alta             | Comunitario |
+| Blackboard | Alta     | Alta                       | Media            | Corporativo |
+| Canvas     | Alta     | Alta                       | Media            | Técnico |
+
+---
+
+## 🧠 Conclusión
+
+Las tres plataformas ofrecen soluciones efectivas según el contexto educativo en el que se implementen. Moodle destaca por su flexibilidad y gratuidad; Blackboard, por su robustez institucional; y Canvas, por su diseño amigable y moderno. La elección dependerá del tipo de institución, recursos disponibles y necesidades pedagógicas.
+
+---
+
+## 📚 Referencias
+
+- Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.  
+- Moodle Docs. (2024). *Features*. Retrieved from https://docs.moodle.org/  
+- Instructure Canvas. (2024). *Product Overview*. Retrieved from https://www.instructure.com/canvas  
+- Blackboard. (2024). *Capabilities and Tools*. Retrieved from https://www.blackboard.com/
+
+---
+
+> 💡 *Esta reseña fue desarrollada como parte del curso de Educación a Distancia en el marco de la Maestría en TIC aplicadas a la Educación.*
+
