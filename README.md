@@ -1,64 +1,54 @@
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
 
 ## 📝 Resumen
-
-Este análisis tuvo como propósito examinar las características, funcionalidades y herramientas pedagógicas de tres plataformas de gestión del aprendizaje en línea: Moodle, Blackboard y Canvas. Se realizó una revisión documental de fuentes técnicas, manuales de usuario y experiencias institucionales con el objetivo de identificar fortalezas, limitaciones y áreas de aplicación de cada sistema. Como resultado, se presentan observaciones comparativas y recomendaciones según distintos contextos educativos.
+*(Escriba aquí un párrafo entre 150 y 250 palabras que explique el propósito del análisis, el procedimiento realizado y los hallazgos principales. Debe estar redactado en pasado.)*
 
 ## 🔑 Palabras clave
-
-Canvas, gestión educativa, Moodle, plataformas LMS, tecnología educativa
+*(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, Blackboard, Canvas, Moodle, plataformas LMS)*
 
 ---
 
 ## 🎯 Introducción
-
-Los sistemas de gestión del aprendizaje (LMS, por sus siglas en inglés) se han consolidado como herramientas esenciales en los procesos educativos virtuales. Esta reseña tuvo como objetivo evaluar tres de las plataformas más representativas: Moodle, Blackboard y Canvas, con el fin de ofrecer un análisis crítico orientado a su aplicabilidad en diferentes entornos de formación. Se tomaron como referencia sus funcionalidades, experiencia de usuario, integración de recursos y soporte técnico.
+*(Describa en pasado los antecedentes del análisis: ¿por qué es importante estudiar estas plataformas?, ¿qué problema se plantea?, ¿cuál fue el objetivo del trabajo? Puede incluir una breve justificación del enfoque.)*
 
 ---
 
 ## 🔍 Desarrollo del análisis
 
 ### Moodle
-- **Características destacadas:** plataforma de código abierto, alta personalización.
-- **Ventajas:** comunidad activa, gran variedad de plugins.
-- **Desventajas:** interfaz menos intuitiva para principiantes.
+- Características generales:
+- Fortalezas:
+- Debilidades:
 
 ### Blackboard
-- **Características destacadas:** enfoque corporativo, soporte profesional.
-- **Ventajas:** herramientas robustas para gestión institucional.
-- **Desventajas:** alto costo de licencia, menos flexible que Moodle.
+- Características generales:
+- Fortalezas:
+- Debilidades:
 
 ### Canvas
-- **Características destacadas:** interfaz moderna, integración con herramientas externas.
-- **Ventajas:** buena experiencia de usuario, escalabilidad.
-- **Desventajas:** menor presencia en Latinoamérica, limitada personalización sin pago.
+- Características generales:
+- Fortalezas:
+- Debilidades:
 
 ---
 
-## 📈 Cuadro comparativo
+## 📊 Cuadro comparativo (Opcional)
 
-| Plataforma | Interfaz | Herramientas de evaluación | Personalización | Soporte |
-|------------|----------|----------------------------|------------------|---------|
-| Moodle     | Media    | Alta                       | Alta             | Comunitario |
-| Blackboard | Alta     | Alta                       | Media            | Corporativo |
-| Canvas     | Alta     | Alta                       | Media            | Técnico |
+| Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización | Soporte |
+|------------|------------|--------------------------|------------------|---------|
+| Moodle     |            |                          |                  |         |
+| Blackboard |            |                          |                  |         |
+| Canvas     |            |                          |                  |         |
 
 ---
 
 ## 🧠 Conclusión
-
-Las tres plataformas ofrecen soluciones efectivas según el contexto educativo en el que se implementen. Moodle destaca por su flexibilidad y gratuidad; Blackboard, por su robustez institucional; y Canvas, por su diseño amigable y moderno. La elección dependerá del tipo de institución, recursos disponibles y necesidades pedagógicas.
+*(Redacte una síntesis crítica de los hallazgos: ¿qué plataforma resulta más adecuada para determinado contexto?, ¿qué aprendió del análisis?, ¿cómo lo aplicaría en su entorno?)*
 
 ---
 
 ## 📚 Referencias
+*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
 
-- Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.  
-- Moodle Docs. (2024). *Features*. Retrieved from https://docs.moodle.org/  
-- Instructure Canvas. (2024). *Product Overview*. Retrieved from https://www.instructure.com/canvas  
-- Blackboard. (2024). *Capabilities and Tools*. Retrieved from https://www.blackboard.com/
-
----
-
-> 💡 *Esta reseña fue desarrollada como parte del curso de Educación a Distancia en el marco de la Maestría en TIC aplicadas a la Educación.*
-
+> Ejemplo:  
+> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
